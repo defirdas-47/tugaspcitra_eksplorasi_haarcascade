@@ -1,0 +1,2 @@
+# tugaspcitra_eksplorasi_haarcascade
+Mendeteksi platnomor dengan metode haarcascade
